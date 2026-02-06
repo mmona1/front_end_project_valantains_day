@@ -1,0 +1,5 @@
+.class demo{
+    constructor(){
+        console.log("hello");
+    }
+}
